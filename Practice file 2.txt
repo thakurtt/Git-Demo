@@ -1,6 +1,6 @@
 This is 2nd file for practice, it has been amended now
-<<<<<<< HEAD
+
 2nd row amended
-=======
+
 Row 2nd amended.
->>>>>>> c83eac4d77418022cc67a879cff99374c172fcb5
+
